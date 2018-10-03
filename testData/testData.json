@@ -1,0 +1,8 @@
+{
+
+"email":"testemailencryption0405@gmail.com",
+"password":"Encryption123",
+"expected_MailHeader":"Encrypted Mail Sample Test",
+"expected_MailBody":"Encryption mail sample test automation."
+
+}
